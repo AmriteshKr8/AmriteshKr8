@@ -1,3 +1,5 @@
+root@AmriteshKr8:~# cat /persona/main.py
+```
 import AmriteshKr8 as s
 import random as r
 acts = ["code","chill","learn","play","go-out"]
@@ -19,3 +21,4 @@ while True:
   if(s.getmood() == "sucidal"):
     break
 s.action("die")
+```
