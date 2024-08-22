@@ -8,7 +8,7 @@ def life():
   if (mood != "happy"):
     s.action("fetch-headphones")
     s.action("blast-music")
-    act = int(r.random()*5)
+    act = int(r.random()*4)
     s.action(acts[act])
   else ():
     act = int(r.random()*3)
