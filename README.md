@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmriteshKr8)
+
 root@AmriteshKr8:~# cat /persona/main.py
 ```
 import AmriteshKr8 as s
