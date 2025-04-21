@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,bash,css,docker,github,godot,html,js,mysql,php,py,vscode" />
+    <img src="https://skillicons.dev/icons?i=arduino,bash,css,docker,github,godot,html,js,mysql,php,py,vscode&theme=light" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,debian,raspberrypi,ubuntu,windows" />
+    <img src="https://skillicons.dev/icons?i=arch,debian,raspberrypi,ubuntu,windows&theme=light" />
   </a>
 </p>
 
