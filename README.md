@@ -2,6 +2,30 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmriteshKr8&layout=donut-vertical&theme=tokyonight&bg_color=45,de9797,97d8de&text_color=333333&title_color=222222&border_color=#dddddd)](https://github.com/anuraghazra/github-readme-stats)
 
+## Languages and Tools
+
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,bash,css,docker,github,godot,html,js,mysql,php,py,vscode" />
+  </a>
+</p>
+
+<hr>
+
+## Operating Systems:
+
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arch,debian,raspberrypi,ubuntu,windows" />
+  </a>
+</p>
+
+<hr>
+
 root@AmriteshKr8:~# cat /persona/main.py
 ```
 import AmriteshKr8 as s
