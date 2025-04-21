@@ -1,4 +1,4 @@
-![Amritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmriteshKr8&hide=contribs,prs&hide_rank=true&show_icons=true&theme=tokyonight&bg_color=45,de9797,97d8de&text_color=333333&icon_color=111111&title_color=222222&ring_color=773eb3&border_color=#444444)
+![Amritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmriteshKr8&hide=contribs,prs&rank_icon=github&show_icons=true&theme=tokyonight&bg_color=45,de9797,97d8de&text_color=333333&icon_color=111111&title_color=222222&ring_color=773eb3&border_color=#444444)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmriteshKr8&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
