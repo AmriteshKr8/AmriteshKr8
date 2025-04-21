@@ -1,4 +1,5 @@
-![Amritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmriteshKr8&hide=contribs,prs)
+<p style="text-align:center;">![Amritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmriteshKr8&hide=contribs,prs&show_icons=true)
+</p>
 
 root@AmriteshKr8:~# cat /persona/main.py
 ```
