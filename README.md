@@ -1,6 +1,14 @@
-![Amritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmriteshKr8&hide=contribs,prs&rank_icon=github&show_icons=true&theme=tokyonight&bg_color=45,de9797,97d8de&text_color=333333&icon_color=111111&title_color=222222&ring_color=773eb3&border_color=#dddddd)
+## ⚡️ Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmriteshKr8&layout=donut-vertical&theme=tokyonight&bg_color=45,de9797,97d8de&text_color=333333&title_color=222222&border_color=#dddddd)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=AmriteshKr8&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="AmriteshKr8's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=AmriteshKr8&theme=transparent&count_private=true&border_radius=10&locale=en" alt="AmriteshKr8's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=AmriteshKr8&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="AmriteshKr8's Most Used Languages" />
+</div>
+
+<hr>
 
 ## Languages and Tools
 
